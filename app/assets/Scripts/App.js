@@ -10,7 +10,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 //import React components that we need
-import MyAmazingComponent from './modules/MyAmazingComponent'
+import MyAmazingComponent from './Modules/MyAmazingComponent'
 
 
 ReactDOM.render(<MyAmazingComponent />,document.querySelector('#my-react-example'))

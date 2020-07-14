@@ -9,4 +9,4 @@ function MyAmazingComponent(){
     )
 }
 
-export default MyAmazingComponent
+export default MyAmazingComponent 
